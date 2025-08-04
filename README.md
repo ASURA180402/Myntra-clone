@@ -1,7 +1,7 @@
-🛍️ Myntra Clone (HTML & CSS)
+    🛍️ Myntra Clone (HTML & CSS)
 This project is a responsive front-end clone of the popular Indian fashion e-commerce website Myntra, created entirely using HTML and CSS. It focuses on replicating the visual layout, homepage design, and UI structure of the original Myntra site without using any JavaScript or backend logic.
 
-💡 Features
+    💡 Features
 🧱 Pixel-perfect layout inspired by the official Myntra homepage
 
 🎯 Built with semantic HTML5 structure for accessibility and clarity
@@ -38,6 +38,7 @@ This project demonstrates:
     Ability to build from visual references
 
 🛠️ Tech Stack
+
     HTML5
 
     CSS3
