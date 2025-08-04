@@ -44,3 +44,6 @@ This project demonstrates:
     CSS3
 
 ##No frameworks or JavaScript used — this clone is purely a static front-end build.##
+
+For Output:
+https://screenrec.com/share/3efRJAxgLr
